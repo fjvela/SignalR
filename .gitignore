@@ -3,3 +3,19 @@
 ################################################################################
 
 /packages
+/.vs
+/SignalRDatabaseNotification/bin
+/SignalRDatabaseNotification/obj
+/SignalRDatabaseNotification.Core/bin/Debug
+/SignalRDatabaseNotification.Core/obj/Debug
+/SignalRDatabaseNotification.Data/bin/Debug
+/SignalRDatabaseNotification.Data/obj/Debug
+/SignalRDatabaseNotification/packages
+/SignalRDatabaseNotification/.vs
+/SignalRDatabaseNotification/SignalRDatabaseNotification/bin
+/SignalRDatabaseNotification/SignalRDatabaseNotification/obj
+*.user
+/SignalRDatabaseNotification/SignalRDatabaseNotification.Core/bin/Debug
+/SignalRDatabaseNotification/SignalRDatabaseNotification.Core/obj/Debug
+/SignalRDatabaseNotification/SignalRDatabaseNotification.Data/bin/Debug
+/SignalRDatabaseNotification/SignalRDatabaseNotification.Data/obj/Debug
