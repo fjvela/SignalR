@@ -19,3 +19,8 @@
 /SignalRDatabaseNotification/SignalRDatabaseNotification.Core/obj/Debug
 /SignalRDatabaseNotification/SignalRDatabaseNotification.Data/bin/Debug
 /SignalRDatabaseNotification/SignalRDatabaseNotification.Data/obj/Debug
+/SignalRChat/.vs
+/SignalRChat/packages
+/SignalRChat/SignalRChat/packages
+/SignalRDatabaseNotification/SQL/obj/Debug
+*.dbmdl
